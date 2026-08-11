@@ -31,6 +31,7 @@ Every preview in this README shows the **Stable** and **Insiders** colors side b
 | Interaction | Preview |
 | --- | --- |
 | **Keyboard hop**<br>Focus the pet and use the arrow keys to hop left or right. | ![The Stable and Insiders pets hopping right and left with the arrow keys](readme-assets/keyboard-hop.png) |
+| **Dizzy**<br>Quickly move the pointer from side to side—or alternate the arrow keys—to make it dizzy. | ![The Stable and Insiders pets following a rapidly moving pointer and becoming dizzy](readme-assets/dizzy.png) |
 | **Drag and drop**<br>Pick it up, move it across the composer, and drop it back on the input. | ![The Stable and Insiders pets being lifted high and dropped onto the chat input](readme-assets/drag-drop-v2.png) |
 | **Fall and respawn**<br>Drop it away from the input and it falls off, leaves a revive sign, respawns, and lands back on the composer. | ![The Stable and Insiders pets being dragged beyond the input edge, falling off, and respawning](readme-assets/fall-respawn-v2.png) |
 
