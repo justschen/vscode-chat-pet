@@ -24,7 +24,7 @@ Every preview in this README shows the **Stable** and **Insiders** colors side b
 | **Typing**<br>Give it a prompt and it gets to work at its tiny terminal. | ![The Stable and Insiders pets typing at a tiny terminal](readme-assets/typing-v2.png) |
 | **Processing**<br>While a request is running, it thinks out loud. | ![The Stable and Insiders pets processing with an animated speech bubble](readme-assets/processing.png) |
 | **Needs input**<br>Confirmations and questions earn an enthusiastic clap. | ![The Stable and Insiders pets clapping when input is needed](readme-assets/needs-input.png) |
-| **Sleep and wake**<br>After 20 quiet seconds it falls asleep as a little snot bubble grows and drifts from its nose; interact with it or type to retract the bubble and wake it. | ![The Stable and Insiders pets sleeping with growing snot bubbles and waking after an interaction](readme-assets/sleep-wake.png) |
+| **Sleep and wake**<br>After 20 quiet seconds it falls asleep as a little snot bubble grows and drifts from its nose; interact with it or type to retract the bubble and wake it. | ![The Stable and Insiders pets sleeping with growing snot bubbles and waking after an interaction](readme-assets/sleep-wake-pr330399.png) |
 
 ## Move it around
 
@@ -33,7 +33,7 @@ Every preview in this README shows the **Stable** and **Insiders** colors side b
 | **Keyboard hop**<br>Focus the pet and use the arrow keys to hop left or right. | ![The Stable and Insiders pets hopping right and left with the arrow keys](readme-assets/keyboard-hop.png) |
 | **Dizzy**<br>Quickly move the pointer from side to side—or alternate the arrow keys—to make it dizzy. | ![The Stable and Insiders pets following a rapidly moving pointer and becoming dizzy](readme-assets/dizzy.png) |
 | **Drag and drop**<br>Pick it up, move it across the composer, and drop it back on the input. | ![The Stable and Insiders pets being lifted high and dropped onto the chat input](readme-assets/drag-drop-v2.png) |
-| **Fall and respawn**<br>Drop it away from the input and it falls directly into a portal-like despawn effect at the bottom. The portal reappears at the top, and the pet drops back onto the composer. | ![The Stable and Insiders pets falling into portals at the bottom, teleporting to the top, and landing back on the composer](readme-assets/fall-respawn-v2.png) |
+| **Fall and respawn**<br>Drop it away from the input and it falls directly into a portal-like despawn effect at the bottom. The portal reappears at the top, and the pet drops back onto the composer. | ![The Stable and Insiders pets falling into portals at the bottom, teleporting to the top, and landing back on the composer](readme-assets/fall-respawn-pr330399.png) |
 
 ## Click surprises
 

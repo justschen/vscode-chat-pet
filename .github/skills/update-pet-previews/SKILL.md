@@ -40,7 +40,7 @@ Regenerate only affected previews:
 python3 scripts/regenerate_pet_previews.py \
   --vscode-root ../vscode \
   --ref refs/remotes/origin/pr-<PR_NUMBER> \
-  --only sleep-wake fall-respawn-v2
+  --only sleep-wake-pr330399 fall-respawn-pr330399
 ```
 
 Names may be provided with or without `.png`.
